@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some Ideas"
-date:   2016-10-02 12:24:16 -0500
+date:   1970-10-02 12:24:16 -0500
 categories: Misc
 ---
 1. Jekyll rocks.
